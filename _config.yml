@@ -18,7 +18,7 @@ theme_settings :
         experience : company name, title
     skills : 
       - skill : HTML5 & CSS
-        value : 85  # Percent value
+        value :
         
   # Icons
   icons :
