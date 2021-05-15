@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stock Price Prediction Using Stacked LSTM ![WebApp Preview](https://drive.google.com/uc?export=view&id=1kAAXAgayNwZOqzMSuHR8yq10E641JXJF)
+title: Stock Price Prediction Using Stacked LSTM
 subtitle : The objective of the proposed work is to study and improve the supervised learning algorithms to predict the stock price.
 tags: [Machine Learning, Statistics, Python, Streamlit, Deep Learning]
 author: Jack Ilango
