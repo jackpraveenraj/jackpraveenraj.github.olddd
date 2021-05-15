@@ -14,15 +14,6 @@ layout: default
       {% include aside.html %}
     </aside>
     <!-- Post List -->
-  <body>
-    {% include landing-page.html %}
-    <div class="layout">
-        {%if site.show_aboutme_card %}
-        <section class="card neumorphism-card-big">
-            {% include section-aboutme.html %}
-        </section>
-        {% endif %}
-   </body>
     <section id="posts" class="col-md-8">
       {% for post in paginator.posts %}
       <div class="post">
