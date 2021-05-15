@@ -9,7 +9,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.jpg
+    image : assets/img/profilepic.png
     username : Jack Ilango
     description : Passionate Engineer, ML Enthusiast. Driven by curiosity. Problem solver who is inspired to find solutions by applying technical knowledge to real life scenarios.
     experience :
