@@ -10,8 +10,8 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Jack Praveen Raj Ilango
+    description : Passionate Engineer, ML Enthusiast. Driven by curiosity. Problem solver who is inspired to find solutions by applying technical knowledge to real life scenarios.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
@@ -22,9 +22,9 @@ theme_settings :
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email:  jackpraveenraj.work@gmail.com
+    linkedin: https://www.linkedin.com/jack-praveen-raj-ilango/
+    github: jackpraveeraj
     gitlab: 
     bitbucket: 
     google_plus:
