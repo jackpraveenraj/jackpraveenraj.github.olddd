@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RedLink - The Blood Donation Networking App:
+title: RedLink - The Blood Donation Networking App
 subtitle : A fully functioning Blood Donation Networking App made using Dart and Flutter and Implemented using Google Firebase.
 tags: [Dart, Flutter, Google Firebase, UI/UX Design]
 author: Jack Ilango
